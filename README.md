@@ -1,24 +1,3 @@
-const dhananjay = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java"],
-    askMeAbout: ["web dev", "tech", "devops", "cloud"],
-    technologies: {
-        devOps: ["AWS", "Azure","Terraform", "Kubernates", "Docker🐳", "Ansible", "CI CD", "microservices", "Jenkins"],
-        frontEnd: {
-            js: ["React", "Angular"],
-            css: ["materialize", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "Next.js"],
-            java: ["spring-boot"]
-        },
-        databases: ["Postgres" ,"Mongo", "MySql", "Cassandra"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    misc: ["Apache kafka", "Selenium"],
-    currentFocus: "Learning new things",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
 
 - ---
 
