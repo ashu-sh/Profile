@@ -2,7 +2,7 @@
 <p><em>Front End Developer(React.js)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-dhananjay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-shinde-87972a1b4/)](https://www.linkedin.com/in/ashutosh-shinde-87972a1b4/)
+[![Linkedin: anmol](https://img.shields.io/badge/-ashutosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-shinde-87972a1b4/)](https://www.linkedin.com/in/ashutosh-shinde-87972a1b4/)
 ![GitHub followers](https://img.shields.io/github/followers/ashu-sh?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=ashu-sh&style=flat-square&color=blue" alt=""/>
 
