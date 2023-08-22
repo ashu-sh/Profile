@@ -4,7 +4,7 @@
 
 [![Linkedin: anmol](https://img.shields.io/badge/-dhananjay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-shinde-87972a1b4/)](https://www.linkedin.com/in/ashutosh-shinde-87972a1b4/)
 ![GitHub followers](https://img.shields.io/github/followers/ashu-sh?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=ashu-sh.ashu-sh)
+<img src="https://komarev.com/ghpvc/?username=ashu-sh&style=flat-square&color=blue" alt=""/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
