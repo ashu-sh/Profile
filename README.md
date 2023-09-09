@@ -1,5 +1,5 @@
 <h2>Hello, I'm Ashutosh!</h2>
-<p><em>Full Stack Developer(React.js)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full Stack Developer (React.js)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: anmol](https://img.shields.io/badge/-Ashutosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-shinde-87972a1b4/)](https://www.linkedin.com/in/ashutosh-shinde-87972a1b4/)
